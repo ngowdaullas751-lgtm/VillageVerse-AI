@@ -1,0 +1,6 @@
+{
+  "name": "VillageVerse AI",
+  "description": "An AI-Powered Digital Twin for Intelligent Village Development — combining village health analytics, predictive risk modeling, what-if infrastructure simulation, GIS mapping, and an interactive 3D digital twin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
